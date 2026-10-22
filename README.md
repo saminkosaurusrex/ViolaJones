@@ -1,0 +1,2 @@
+- Description: A from scratch C# implementation of the Viola-Jones face detection algorithm for learning computer vision
+- Author: Samuel Kundraát
