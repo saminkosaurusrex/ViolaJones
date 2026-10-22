@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ViolaJones.Core/ViolaJones.Core.csproj" />
+    <Project Path="src/ViolaJones.Demo/ViolaJones.Demo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ViolaJones.Tests/ViolaJones.Tests.csproj" />
+  </Folder>
+</Solution>
